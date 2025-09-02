@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Antônio!
 
 🎓 Estudante de Engenharia da Computação no CESUPA  
-💻 Focado em Desenvolvimento Web, Python e Machine Learning
+💻 Focado em Desenvolvimento Web, Python e Machine Learning                                   
 📚 Atualmente desenvolvendo um sistema de captura e interpretação de gestos 
 
 ---
