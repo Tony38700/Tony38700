@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Antônio!
 
-🎓 Estudante de Ciência da Computação no CESUPA  
-💻 Focado em Python, Machine Learning e Desenvolvimento Web  
-📚 Atualmente desenvolvendo um sistema de gestão de biblioteca  
+🎓 Estudante de Engenharia da Computação no CESUPA  
+💻 Focado em Desenvolvimento Web, Python e Machine Learning
+📚 Atualmente desenvolvendo um sistema de captura e interpretação de gestos 
 
 ---
 
@@ -20,8 +20,8 @@
 ---
 
 ## 📊 Estatísticas
-![Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony38700&show_icons=true&theme=tokyonight)
 
 ---
 
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | antonio@email.com
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | alnalves2004@gmail.com
