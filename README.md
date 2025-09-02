@@ -13,15 +13,9 @@
 
 ---
 
-## 📌 Projetos em destaque
-- 📖 [Sistema de Biblioteca CESUPA](https://github.com/seu-usuario/biblioteca-cesupa)  
-- 🤖 [Redes Neurais com PyTorch](https://github.com/seu-usuario/pytorch-labs)
-
----
-
 ## 📊 Estatísticas
 ![Antônio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony38700&show_icons=true&theme=tokyonight)
 
 ---
 
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | alnalves2004@gmail.com
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/antonio-lucas-3a8b7c) | alnalves2004@gmail.com
